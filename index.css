@@ -1,0 +1,133 @@
+body{
+    margin: 50px 90px;
+}
+
+.cabecalho{
+    display: inline;
+}
+
+.nomedosite{
+    font-family: "Roboto", sans-serif; 
+    font-weight: 300;
+}
+
+.menu{
+    font-family: "Poppins", sans-serif;
+    background-color: rgb(12, 73, 110);
+    color: white;
+    border-style: none;
+    border-radius: 5px;
+    padding: 5px 20px; 
+    float: right;
+}
+
+.menu:active{
+    background-color: rgb(10, 56, 85) ;
+}
+
+.tituloprincipal{
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+}
+
+.subtitulo{
+    color: gray;
+    font-family: "Roboto", sans-serif; 
+    font-weight: 300;
+}
+
+.centeralign{
+    display: flex;
+    justify-content: center;
+}
+
+.txtalign{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-left: 240px;
+    padding-right: 240px;
+    padding-bottom: 50px;
+}
+
+.txt1{
+    font-family: "Roboto", sans-serif; 
+    font-weight: 300;
+}
+
+.galeria1{
+    display: flex;
+    justify-content: center;
+}
+
+.itemgaleria1{
+    margin: 0px 10px;
+}
+
+.titulogaleria1{
+    font-family: "Roboto", sans-serif; 
+    font-weight: 300;
+    margin-top: 40px;
+}
+
+.imgtxt{
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+.divisor{
+    margin-inline: 100px;
+    border-top: 1px solid rgb(218, 218, 218);
+}
+
+.footerbigdiv{
+    display: flex;
+    flex-direction: row;
+}
+
+.footerdiv{
+    padding-top: 40px;
+    padding-left: 100px;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.nomedosite2{
+    font-family: "Roboto", sans-serif; 
+    font-weight: 300;
+}
+
+.desce{
+    padding-bottom: 70px;
+}
+
+.footerdiv1{
+    padding-bottom: 70px;
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+}
+
+.footerbigdiv2{
+    padding-top: 30px;
+    padding-left: 40px
+}
+
+.coluna{
+    display: flex;
+    flex-direction: column;
+}
+
+.nomedosite3{
+    font-family: "Roboto", sans-serif; 
+    font-weight: 300;
+    padding: 10px;
+}
+
+.nomedosite4{
+    font-family: "Roboto", sans-serif; 
+    font-weight: 300;
+    padding: 10px;
+    color: gray;
+}
+
